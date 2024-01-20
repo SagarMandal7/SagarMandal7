@@ -16,24 +16,24 @@ You can click the Preview link to take a look at your changes.
 --->
 ## My skill set 
 ### 1. Programming Languages:
-    Proficient in Python and familiar with R.
+    -Proficient in Python and familiar with R.
 ### 2. Data Analysis: 
-    Skilled in Pandas and NumPy for data manipulation.
+    -Skilled in Pandas and NumPy for data manipulation.
 ### 3. Data Visualization: 
-    Proficient in Matplotlib and Seaborn.
+    -Proficient in Matplotlib and Seaborn.
 ### 4. Machine Learning: 
-    Solid understanding of scikit-learn and TensorFlow/PyTorch.
+    -Solid understanding of scikit-learn and TensorFlow/PyTorch.
 ### 5. Statistical Analysis: 
-    Experience with SciPy for statistical modeling.
+    -Experience with SciPy for statistical modeling.
 ### 6. Database Management: 
-    Familiar with SQL and relational databases.
+    -Familiar with SQL and relational databases.
 ### 7. Data Preprocessing: 
-    Handling missing data and feature engineering.
+    -Handling missing data and feature engineering.
 ### 8. Collaboration: 
-    Effective communication and documentation skills.
+    -Effective communication and documentation skills.
 ### 10.Problem Solving: 
-    Strong analytical and critical thinking skills.
+    -Strong analytical and critical thinking skills.
 ### 11.Project Management: 
-    Experience in organizing data science projects.
+    -Experience in organizing data science projects.
 ### 12.Continuous Learning: 
-    Stay updated with the latest trends in data science.
+    -Stay updated with the latest trends in data science.
