@@ -1,5 +1,8 @@
-![sagarM](https://github.com/SagarMandal7/SagarMandal7/assets/146010223/351bd27a-d5e4-4e12-8317-d434103f6d2d)
-# I'm Sagar Mandal, Aspiring Data Scientist with experience in Data Analysis, and Data Pipeline Development.
+<p align="center">
+  <img src="https://github.com/SagarMandal7/SagarMandal7/assets/146010223/351bd27a-d5e4-4e12-8317-d434103f6d2d" width="35%">
+</p>
+
+## I'm Sagar Mandal, Aspiring Data Scientist with experience in Data Analysis, and Data Pipeline Development.
 
 - 🌱 I’m currently learning Learning about DL
 - 💞️ I’m looking to collaborate on ML & DL Projects
