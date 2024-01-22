@@ -4,7 +4,7 @@
 
 ## I'm Sagar Mandal, Aspiring Data Scientist with experience in Data Analysis, and Data Pipeline Development.
 
-- 🌱 I’m currently learning Learning about DL
+- 🌱 I’m currently learning about DL
 - 💞️ I’m looking to collaborate on ML & DL Projects
 - 💻  My projects are available at https://github.com/SagarMandal7
 - 📫 How to reach me at mandalsagarji@gmail.com
