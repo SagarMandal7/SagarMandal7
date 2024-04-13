@@ -15,25 +15,16 @@ SagarMandal7/SagarMandal7 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ## My skill set 
-### 1. Programming Languages:
-    -Proficient in Python and familiar with R.
-### 2. Data Analysis: 
-    -Skilled in Pandas and NumPy for data manipulation.
-### 3. Data Visualization: 
-    -Proficient in Matplotlib and Seaborn.
-### 4. Machine Learning: 
-    -Solid understanding of scikit-learn and TensorFlow/PyTorch.
-### 5. Statistical Analysis: 
-    -Experience with SciPy for statistical modeling.
-### 6. Database Management: 
-    -Familiar with SQL and relational databases.
-### 7. Data Preprocessing: 
-    -Handling missing data and feature engineering.
-### 8. Collaboration: 
-    -Effective communication and documentation skills.
-### 10.Problem Solving: 
-    -Strong analytical and critical thinking skills.
-### 11.Project Management: 
-    -Experience in organizing data science projects.
-### 12.Continuous Learning: 
-    -Stay updated with the latest trends in data science.
+<ol>
+  <li><b>Programming Languages:</b> -Proficient in Python and familiar with R.</li>
+  <li><b>Data Analysis</b>-Skilled in Pandas and NumPy for data manipulation.</li>
+  <li><b>Data Visualization:</b>-Proficient in Matplotlib and Seaborn.</li>
+  <li><b>Machine Learning: </b>-Solid understanding of scikit-learn and TensorFlow/PyTorch.</li>
+  <li><b>Statistical Analysis:</b>-Experience with SciPy for statistical modeling.</li>
+  <li><b>Database Management: </b>-Familiar with SQL and relational databases.</li>
+  <li><b>Data Preprocessing: </b>-Handling missing data and feature engineering.</li>
+  <li><b>Collaboration: </b>-Effective communication and documentation skills.</li>
+  <li><b>Problem Solving: </b>-Strong analytical and critical thinking skills.</li>
+  <li><b>Project Management: </b>-Experience in organizing data science projects.</li>
+  <li><b>Continuous Learning:</b>-Stay updated with the latest trends in data science.</li>
+</ol>
